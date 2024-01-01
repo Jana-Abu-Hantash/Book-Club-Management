@@ -25,3 +25,5 @@ This C++ program manages data for a book club, handling books and club members. 
 1. Ensure you have a C++ compiler installed (e.g., g++, clang).
 2. Compile the program using the command appropriate for your compiler and system.
 3. Run the resulting executable to start the program.
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2022>`.
